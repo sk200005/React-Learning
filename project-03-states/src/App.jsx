@@ -1,6 +1,7 @@
 
 import './App.css'
 import Counter from './Counter'
+import Like from './Like'
 
 function App() {
  
@@ -9,6 +10,8 @@ function App() {
     <>
       <h1>States in React</h1>
       <Counter/>
+      <br />
+      <Like/>
     </>
   )
 }
