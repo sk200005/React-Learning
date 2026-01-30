@@ -1,4 +1,5 @@
 import Product from '../../project-02/src/Product'
+import Button from './Button';
 
 export default function ProductTab ()
 {

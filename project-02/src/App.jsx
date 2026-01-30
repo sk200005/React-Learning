@@ -1,5 +1,6 @@
 
 import './App.css'
+import Button from './Button'
 import ProductTab from './ProductTab'
 
 
@@ -9,6 +10,7 @@ function App() {
     <>
     <h1>Amazon Sale</h1>
     <ProductTab/>
+    <Button/>
     </>
   )
 } 
